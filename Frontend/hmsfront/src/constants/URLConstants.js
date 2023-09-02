@@ -1,0 +1,1 @@
+export const SPRINGURL='http://localhost:8080/hms'
